@@ -1,3 +1,2 @@
-FooCoin (FOO)
-
-Blah, blah, blah.
+Do not use this coin.
+It was made just for testing,
